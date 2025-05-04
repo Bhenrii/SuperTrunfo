@@ -27,7 +27,7 @@ int main()
     scanf("%s", &estado1);
 
     // lendo variavel codigo1
-    printf("Digite o codigo da carta(ex: 'H01', 'B03'): ");
+    printf("Digite o código da carta (de 01 a 08). Exemplo: H01, B03: ");
     scanf("%s", &codigo1);
 
     // lendo variavel nomecidade1
@@ -65,7 +65,7 @@ int main()
     scanf("%s", &estado2);
 
     // lendo variavel codigo2
-    printf("Digite o codigo da carta(ex: 'H01', 'B03'): ");
+    printf("Digite o código da carta (de 01 a 08). Exemplo: H01, B03: ");
     scanf("%s", &codigo2);
 
     // lendo variavel nomecidade2
