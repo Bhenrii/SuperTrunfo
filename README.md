@@ -29,15 +29,8 @@ switch para a seleção de opções de comparação entre atributos.
 
 Cálculos para determinar densidade populacional, PIB per capita, e super poder.
 
-Comparação de Atributos:
-1. População
-2. Área
-3. PIB
-4. Pontos Turísticos
-5. Densidade Populacional
-6. PIB Per Capita
-7. Super Poder
-Escolha o 1° atributo para Comparação: 
+
 Conclusão
-Este projeto foi desenvolvido com o intuito de praticar estruturas condicionais em C, mas também pode ser expandido para adicionar mais atributos ou funcionalidades, como múltiplos jogadores ou uma versão com mais cidades.
+Este projeto foi desenvolvido com o intuito de praticar estruturas condicionais em C, 
+mas também pode ser expandido para adicionar mais atributos ou funcionalidades, como múltiplos jogadores ou uma versão com mais cidades.
 
